@@ -34,3 +34,9 @@ API :
         - post  : /api/jurnal
         - put   : /api/jurnal/:id
         - delete: /api/jurnal/:id
+
+
+JWT :
+
+    - login username & password 
+    - token = req.body.token || req.query.token || req.headers['x-access-token']
