@@ -12,7 +12,9 @@ Run First:
 -node App.js
 
 API :
+
     Admin :
+    
         - gets  : /api/admin
         - get   : /api/admin/:id
         - post  : /api/admin
