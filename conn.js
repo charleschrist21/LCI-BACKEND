@@ -7,8 +7,8 @@ const con = mysql.createConnection({
     database: "LCI"
 });
 
-con.connect(function(err){
-    if(err)throw err;
+con.connect(function (err) {
+    if (err) throw err;
 });
 
 module.exports = con;
