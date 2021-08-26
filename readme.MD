@@ -2,16 +2,16 @@
 
 Database :
 
--change username with your mysql username
--change password with your mysql password
--change database with your mysql database
+- change username with your mysql username
+- change password with your mysql password
+- change database with your mysql database
 
 
 Run First:
 
--npm install
--import database.sql to your database
--node App.js
+- npm install
+- import database.sql to your database
+- node App.js
 
 API :
 
@@ -28,7 +28,7 @@ API :
         - post  : /api/signin
 
     Jurnal :
-    
+
         - gets  : /api/jurnal
         - get   : /api/jurnal/:id
         - post  : /api/jurnal
